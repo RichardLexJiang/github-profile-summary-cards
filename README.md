@@ -1,10 +1,11 @@
-# github-profile-summary-cards-example
+# github-profile-summary-cards
 
 this is a workflow project for generating some github summary cards for my profile , it will collect my github statistics data📈 dailly and regenerate the card.  
 
 see the cards that was generated [click here](./profile-summary-card-output/README.md)
 
------ 👇**official** introduction👇
+👇👇origin **official** introduction👇👇
+----- 
 
 
 :star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial) ( Recommendation ) :star:
