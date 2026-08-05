@@ -1,5 +1,10 @@
 # github-profile-summary-cards-example
 
+this is a workflow project for generating some github summary cards for my profile , it will collect my github statistics data📈 dailly and regenerate the card.  
+
+see the cards that was generated [click here](./profile-summary-card-output/README.md)
+
+
 :star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial) ( Recommendation ) :star:
 
 Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
