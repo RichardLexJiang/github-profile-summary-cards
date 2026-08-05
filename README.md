@@ -4,6 +4,8 @@ this is a workflow project for generating some github summary cards for my profi
 
 see the cards that was generated [click here](./profile-summary-card-output/README.md)
 
+----- 👇**official** introduction👇
+
 
 :star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial) ( Recommendation ) :star:
 
